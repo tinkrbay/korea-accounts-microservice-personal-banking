@@ -11,9 +11,9 @@ balance: {
     type: Number,
     default : 0.0
   },
-bankName:{
+accountid:{
     type: String,
-    Required: 'Kindly enter the bank name'
+    Required: 'Kindly enter the Account ID'
   }
 });
 
